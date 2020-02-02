@@ -1,0 +1,6 @@
+$ Date 22_Aban_91
+  ->this is A test File<-$
+READ( I2 );WRITE(Identifier_1);
+Identifier_CS222 := Identifier_1 + 10 * 4 /5;
+WRITE(Identifier_2)
+END

@@ -1,0 +1,4 @@
+READ(Variable_A212);
+$Comments: read one identifier Variable_A212$
+WRITE(Variable_B616s)
+END

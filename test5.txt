@@ -1,0 +1,17 @@
+$ Date 22_Aban_91 1:58 AM 11/12/2012
+  ->this is A test File<-$
+READ(F10434);$INPUT IDs$
+WRITE(V_40XX9_WRITE);WRITE(WRITE_1);WRITE(ENDed);
+
+$:::>>>>>>>READ(x1, x2 , x3 ,...);<<<<<<<<<<:::$
+READ(EnD_64_D,A2,
+R34_READ);
+A2 := .3234+111.9093 -021.*3.3333;
+
+$=====>>>>>>>>> WRITE(x1, x2, x3, ...);<<<<<<<<<=====$
+WRITE(C*354+.3232/(0000*000.002),WRITE_002, READ1*(VAriable_61x),
+R+R/READ1*(2020), X_END);
+!
+Identifier_CS222 := Identifier_1 + .1010 * 4.00012;
+write(c)
+END

@@ -1,0 +1,7 @@
+READ(A1);
+REDA(B1);
+A1 := A1 + B1;
+WRITE(A1,B1)
+END
+
+
